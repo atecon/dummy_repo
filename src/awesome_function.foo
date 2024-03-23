@@ -1,0 +1,4 @@
+# This function does awesome things...
+
+def my_function():
+    print("Hello from a function")
